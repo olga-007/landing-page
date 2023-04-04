@@ -16,3 +16,8 @@
 Intitial version, an unstyled HTML file
 
 <img width="480" src="versions/version1.png">
+
+## Version 2 
+Draft styling using Flexbox
+
+<img width="480" src="versions/version2.png">
