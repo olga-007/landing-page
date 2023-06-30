@@ -2,7 +2,7 @@
 ## Task Description
 <table>
   <tr>
-    <th>Create a webpage that looks like this:</th>
+    <th>Create a <i>responsive</i> webpage that looks like this:</th>
     <th>Use these colors and fonts:</th>
   </tr>
   <tr>
